@@ -31,5 +31,7 @@ when 1
 
 when 2
   adiconar
+when 3
+  
 end
 end
